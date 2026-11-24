@@ -36,8 +36,8 @@ Always learning. Always analysing. Always looking for insights.
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** Contact Centre Workforce Analytics: Analysing customer demand, workforce capacity, service levels and operational performance to identify staffing gaps and efficiency opportunities.
-- **Project B:** Customer Performance Analytics: Exploring customer service trends, repeat contacts, resolution rates and satisfaction metrics to uncover opportunities for service improvement.
+-**Contact Centre Workforce Analytics:** Analysing customer demand, workforce capacity, service levels and operational performance to identify staffing gaps and efficiency opportunities.
+-**Customer Performance Analytics:** Exploring customer service trends, repeat contacts, resolution rates and satisfaction metrics to uncover opportunities for service improvement.
  
 
 ## 🌱 Currently Learning 
