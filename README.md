@@ -19,7 +19,7 @@ My background spans customer operations, asset management, credit control, busin
 
 I work with **Excel, SQL, Power BI and Python** to explore data, analyse performance, build dashboards and communicate insights effectively.
 
-On this GitHub profile, I share projects covering:
+ I have worked on projects covering:
 
 - Data cleaning, exploration and analysis
 - SQL querying and business problem-solving
