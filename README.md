@@ -36,9 +36,9 @@ Always learning. Always analysing. Always looking for insights.
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** Contact Centre Workforce Analytics: Analysing customer demand, workforce capacity, service levels and operational performance to identify staffing gaps and efficiency opportunities.
+- **Project B:** Customer Performance Analytics: Exploring customer service trends, repeat contacts, resolution rates and satisfaction metrics to uncover opportunities for service improvement.
+ 
 
 ## 🌱 Currently Learning 
 
