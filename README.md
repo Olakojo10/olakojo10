@@ -15,7 +15,7 @@
 ## 🚀 About Me 
 I'm a business-focused Data Analyst passionate about transforming data into meaningful insights that help organisations make better decisions.
 
-My background spans customer operations, credit control, business analysis and process improvement, giving me a practical understanding of how data can be used to identify trends, measure performance, uncover inefficiencies and solve real-world business problems.
+My background spans customer operations, asset mamagement, credit control, business analysis and process improvement, giving me a practical understanding of how data can be used to identify trends, measure performance, uncover inefficiencies and solve real-world business problems.
 
 I work with **Excel, SQL, Power BI and Python** to explore data, analyse performance, build dashboards and communicate insights effectively.
 
