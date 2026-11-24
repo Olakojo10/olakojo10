@@ -13,11 +13,24 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a business-focused Data Analyst passionate about transforming data into meaningful insights that help organisations make better decisions.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My background spans customer operations, credit control, business analysis and process improvement, giving me a practical understanding of how data can be used to identify trends, measure performance, uncover inefficiencies and solve real-world business problems.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I work with **Excel, SQL, Power BI and Python** to explore data, analyse performance, build dashboards and communicate insights effectively.
+
+On this GitHub profile, I share projects covering:
+
+- Data cleaning, exploration and analysis
+- SQL querying and business problem-solving
+- Power BI dashboards and KPI reporting
+- Customer, financial and operational analytics
+- Business performance and process improvement
+
+I'm continuously developing my analytical skills and building projects that demonstrate not just what the data says, but **why it matters and what businesses can do next.**
+
+Always learning. Always analysing. Always looking for insights.
+:::
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
