@@ -30,7 +30,6 @@ On this GitHub profile, I share projects covering:
 I'm continuously developing my analytical skills and building projects that demonstrate not just what the data says, but **why it matters and what businesses can do next.**
 
 Always learning. Always analysing. Always looking for insights.
-:::
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
