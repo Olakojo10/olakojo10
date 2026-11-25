@@ -66,9 +66,9 @@ Data Cleaning & Transformation
 
 Data Validation
 <p>
-  <img src="https://img.shields.io/badge/SQL Server-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/Data Cleaning & Transformation-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-  <img src="https://img.shields.io/badge/Data Validation-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/SQL Server-3776AB?style=flat&logo=python&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Data Cleaning & Transformation-276DC3?style=flat&logo=r&logoColor=white" alt="Data Skill Badge">
+  <img src="https://img.shields.io/badge/Data Validation-276DC3?style=flat&logo=r&logoColor=white" alt="Data Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
