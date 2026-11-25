@@ -60,15 +60,11 @@ Always learning. Always analysing. Always looking for insights.
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p>
 
-#### Data Management  SQL Server
-
-Data Cleaning & Transformation
-
-Data Validation
+#### Data Management
 <p>
-  <img src="https://img.shields.io/badge/SQL Server-3776AB?style=flat&logo=python&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Data Cleaning & Transformation-276DC3?style=flat&logo=r&logoColor=white" alt="Data Skill Badge">
-  <img src="https://img.shields.io/badge/Data Validation-276DC3?style=flat&logo=r&logoColor=white" alt="Data Skill Badge">
+  <img src="https://img.shields.io/badge/SQL Server-3776AB?style=flat&logo=SQL&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Data Cleaning & Transformation-276DC3?style=flat&logo=Data&logoColor=white" alt="Data Skill Badge">
+  <img src="https://img.shields.io/badge/Data Validation-276DC3?style=flat&logo=Data&logoColor=white" alt="Data Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
